@@ -1,0 +1,58 @@
+.Todo {
+    text-align: center;
+    background-color: #acf0de;
+}
+
+.container {
+    padding: 20px 20px 20px 20px;
+    display: flex;
+}
+
+.img {
+    width: 10px;
+}
+
+.novedad {
+    text-align: center;
+}
+
+.text2 {
+    padding-left: 100px;
+    font-size: 44px;
+}
+
+.clasificacion {
+    padding-right: 200px;
+}
+
+.star {
+    float: left;
+}
+
+.star1 {
+    background-color: aqua;
+    padding-left: 100px;
+    padding-right: 100px;
+    left: 500px;
+    width: 450px;
+    height: 150px;
+    border-color: red;
+}
+
+.star2 {
+    display: flexbox;
+    background-color: aqua;
+    padding-left: 100px;
+    padding-right: 100px;
+    left: 500px;
+    width: 450px;
+    height: 150px;
+    border-color: red;
+}
+
+.radio1 {
+    width: 25%;
+    height: 0;
+    padding-top: 25%;
+    position: relative;
+}
